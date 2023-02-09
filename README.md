@@ -1,4 +1,4 @@
-## Hello, I'm am Lavínia
+## Hello, I'm Lavínia
 
 - 🔭 Procurando estágio em desenvolvimento
 - 🌱 Estudando HTML, CSS e JavaScript
