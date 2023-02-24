@@ -1,5 +1,5 @@
 <h1 style='font-size:40px;color:pink;'>Hello, I´m Lavínia</h1>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/5de294ef2cbe72827c27a216100bc09d.gif" width="200" height="200"></a>
+<img src="https://i.picasion.com/pic92/5de294ef2cbe72827c27a216100bc09d.gif" width="200" height="200">
   
 <div style='display:flex;'>
   <div>
