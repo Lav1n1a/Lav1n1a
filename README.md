@@ -17,14 +17,6 @@ Full‑stack developer building modern web apps.
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lav1n1a&theme=transparent" />
-</p>
-
----
-
 ## 📫 Contact
 
 <div style="display:flex;">
